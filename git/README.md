@@ -1,7 +1,7 @@
 
 # Git
 
-### Simple source control
+### Source Control - Use It.
 
 ##### Resources
 
