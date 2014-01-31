@@ -5,5 +5,5 @@
 
 ##### Resources
 
-- Git Intro (.pdf above) - Slides from an MH Lightning Talk.
+- [Git Intro](GitIntro.pdf) - Slides from an MH Lightning Talk. (.pdf above)
 - [Git On UMich-CAEN](http://ottosipe.github.io/git-notes/) - Great for EECS projects, moving code to and from a local machine, and preventing code loss.
