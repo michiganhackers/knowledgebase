@@ -14,7 +14,7 @@ If you have links to good resources please submit a pull request!
 
 ##### Resources
 
-- Git Intro (/git/GitIntro.pdf) - Slides from an MH Lightning Talk.
+- [Git Intro](https://github.com/michiganhackers/knowledgebase/raw/master/git/GitIntro.pdf) - Slides from an MH Lightning Talk.
 - [Git On UMich-CAEN](http://ottosipe.github.io/git-notes/) - Great for EECS projects, moving code to and from a local machine, and preventing code loss.
 
 
@@ -43,13 +43,16 @@ If you have links to good resources please submit a pull request!
 
 
 
-<!-- ## iOS
+## iOS
 
 ### Mobile Dev. For Apple's Platform
 
 ##### Resources
 
-- Nothing to See Here (Submit a pull request!)
+- [NYTimes Objective-C Style Guide](https://github.com/NYTimes/objective-c-style-guide) - The definitive Objective-C style guide.
+
+
+
 
 ## Android
 
@@ -57,7 +60,7 @@ If you have links to good resources please submit a pull request!
 
 ##### Resources
 
-- Nothing to See Here (Submit a pull request!) -->
+- Coming Soon! Omid is giving a tech-talk on 2/20/14
 
 
 
