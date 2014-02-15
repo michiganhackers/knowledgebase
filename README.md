@@ -14,7 +14,7 @@ If you have links to good resources please submit a pull request!
 
 ##### Resources
 
-- [Git Intro](https://github.com/michiganhackers/knowledgebase/raw/master/files/GitIntro.pdf) - Slides from an MH Lightning Talk.
+- [Git Intro](https://docs.google.com/presentation/d/1xlVOfHfBb_5fhkFLQOobS43U_ixYEIF5-qZhKRjBMW4/pub) - Slides from an MH Lightning Talk.
 - [Git On UMich-CAEN](http://ottosipe.github.io/git-notes/) - Great for EECS projects, moving code to and from a local machine, and preventing code loss.
 
 
@@ -49,7 +49,8 @@ If you have links to good resources please submit a pull request!
 
 ##### Resources
 
-- [NYTimes Objective-C Style Guide](https://github.com/NYTimes/objective-c-style-guide) - The definitive Objective-C style guide.
+- [Design Suggestions for iOS](#) - Joe's advice on how to make better iOS apps!
+- [NYTimes Objective-C Style Guide](https://github.com/NYTimes/objective-c-style-guide)- The definitive Objective-C style guide.
 
 
 
@@ -72,6 +73,19 @@ If you have links to good resources please submit a pull request!
 ##### Resources
 
 - [Intro To Eagle](https://github.com/michiganhackers/eagle-intro) - Intro to using CAD software for designing PCBs. 
+
+
+
+
+
+## Design
+
+### Pay attention to how things look! It's important.
+
+##### Resources
+
+- [Design For Hackers](https://docs.google.com/presentation/d/1uR3aXKBCDQwX_vM_O7J7ik7XGX7kDpZcNjw6gnB2eEI/pub) - Slides from a a talk about general design given by Molly.
+
 
 
 
