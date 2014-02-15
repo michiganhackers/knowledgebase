@@ -14,7 +14,7 @@ If you have links to good resources please submit a pull request!
 
 ##### Resources
 
-- [Git Intro](https://github.com/michiganhackers/knowledgebase/raw/master/git/GitIntro.pdf) - Slides from an MH Lightning Talk.
+- [Git Intro](https://github.com/michiganhackers/knowledgebase/raw/master/files/GitIntro.pdf) - Slides from an MH Lightning Talk.
 - [Git On UMich-CAEN](http://ottosipe.github.io/git-notes/) - Great for EECS projects, moving code to and from a local machine, and preventing code loss.
 
 
