@@ -86,6 +86,7 @@ If you have links to good resources please submit a pull request!
 ##### Resources
 
 - [Design For Hackers](https://docs.google.com/presentation/d/1uR3aXKBCDQwX_vM_O7J7ik7XGX7kDpZcNjw6gnB2eEI/pub) - Slides from a a talk about general design given by Molly.
+- [Practical Typography](http://practicaltypography.com/) - A thorough (but short) online book covering everything you need to know to make your written work legible, readable, and professional.
 
 
 
