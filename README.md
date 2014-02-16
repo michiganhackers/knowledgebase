@@ -49,9 +49,10 @@ If you have links to good resources please submit a pull request!
 
 ##### Resources
 
-- [Design Suggestions for iOS](#) - Joe's advice on how to make better iOS apps!
+- [Build an iOS App the Michigan Hackers Way](http://youtu.be/jlJ4laUHNBk) - Recording of Joe's talk on building a reddit app in <100 lines using open source libraries. ([Slides](https://docs.google.com/presentation/d/1uao2lZV-fQJMKRzL2zbvGsSMa1DxKl6x-XeQ99C0ox0/edit?usp=sharing))
+- [Design Suggestions for iOS](https://docs.google.com/presentation/d/1gbyjgOvPC9c8ONfcMcQG8PNIJ7IiG84Fj8qyD-WbQz0/edit?usp=sharing) - Joe's advice on how to make better iOS apps!
+- [Mobile Industry Overview (Slides)](https://docs.google.com/presentation/d/1Q0mpTFUpfN1kAxz89taS0THJ3mLYMtiOpRVH9Lo3yzI/edit#slide=id.g175c05aef_041)
 - [NYTimes Objective-C Style Guide](https://github.com/NYTimes/objective-c-style-guide)- The definitive Objective-C style guide.
-
 
 
 
