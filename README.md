@@ -20,15 +20,15 @@ Both of these will give you a solid foundation in JavaScript, a language widely 
 
 _These appear to be the major sections of the Knowledgebase. We should have a separate page for each. The following headings should each be followed by a brief description of the technology, why its cool, etc._
 
-### [iOS](iOS.md)
+### [iOS](Technologies/iOS.md)
 
-### [Android](Android.md)
+### [Android](Technologies/Android.md)
 
-### [Web](Web.md)
+### [Web](Technologies/Web.md)
 
-### [Hardware](Hardware.md)
+### [Hardware](Technologies/Hardware.md)
 
-### [Polish](Polish.md)
+### [Polish](Technologies/Polish.md)
 
 _Includes_
 - Git
