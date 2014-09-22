@@ -41,6 +41,7 @@ If you have links to good resources please submit a pull request!
 - [Web Design for Hackers](http://slid.es/ottosipe/web) - A simple introduction to web design principles and CSS.
 
 - [HTML 5 and CSS 3 Introduction](https://docs.google.com/presentation/d/1fcb6DakG7cQxjP-KxobiLKiaUjEaLsOAOwidGyH4ZbA/pub?start=false&loop=false&delayms=3000) - A brief introduction to what's new in HTML 5 and CSS 3
+- [HTML 5 and CSS 3 Tutorials] (https://www.youtube.com/playlist?list=PL081AC329706B2953)  -  A decently comprehnsive set of 53 video tutorials on HTML 5 and CSS3. Tutorials assume basic understanding of XHTML and CSS. 
 
 
 ## iOS
