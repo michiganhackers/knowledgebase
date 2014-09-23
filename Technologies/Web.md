@@ -38,4 +38,4 @@
 
 ##### Resources
 
-- [Learn SQL the Hard Way] - Text that walks through and builds up a good knowledge of SQL using SQLite
+- [Learn SQL the Hard Way](http://sql.learncodethehardway.org/book/) - Text that walks through and builds up a good knowledge of SQL using SQLite
