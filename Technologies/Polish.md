@@ -30,6 +30,7 @@
 
 ##### Resources
 
+- [Deploy Node.js App On Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction) - Heroku's quick tutorial on deploying your Node.js app.
 - [Deploy Python On Heroku](https://github.com/michiganhackers/heroku-py-demo
 ) - Simple intro to using Heroku, geared towards python but useful for other languages.
 
