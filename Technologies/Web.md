@@ -21,3 +21,13 @@
 - [Intro JavaScript](https://github.com/michiganhackers/javascript-talk) - Plain intro to how JS works. Nothing fancy.
 
 
+## Python
+
+### Web frameworks built with Python
+
+##### Resources
+
+- [Build a Flask App](http://flask.pocoo.org/docs/0.10/quickstart/) - A quickstart guide on building a web application with Flask, a Python web framework. Remember to [install Flask](http://flask.pocoo.org/docs/0.10/installation/#installation) first! 
+- [YouTube playlist on Flask](https://www.youtube.com/watch?v=iSrZ6r7hwdM&index=1&list=PL0DA14EB3618A3507)
+- [An Extensive guide](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) on Flask.
+- [The Flask subreddit](http://www.reddit.com/r/flask/) - Good for reference and asking questions (as well as StackOverflow).
