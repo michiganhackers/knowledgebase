@@ -31,3 +31,11 @@
 - [YouTube playlist on Flask](https://www.youtube.com/watch?v=iSrZ6r7hwdM&index=1&list=PL0DA14EB3618A3507)
 - [An Extensive guide](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) on Flask.
 - [The Flask subreddit](http://www.reddit.com/r/flask/) - Good for reference and asking questions (as well as StackOverflow).
+
+## Databases
+
+### SQL
+
+##### Resources
+
+- [Learn SQL the Hard Way](http://sql.learncodethehardway.org/book/) - Text that walks through and builds up a good knowledge of SQL using SQLite
