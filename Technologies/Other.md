@@ -4,6 +4,6 @@
 
 ### Resources
 
-- [http://www.regular-expressions.info/](Regular Expressions) - not the prettiest site but it's a good walkthrough of how regular expressions work and the highlighting makes it really clear
+- [Regular Expressions](http://www.regular-expressions.info/) - Not the prettiest site but it's a good walkthrough of how regular expressions work and the highlighting makes it really clear
 
-- [http://www.regexr.com/](RegExr) - Mess around with regexes in your browser
+- [RegExr](http://www.regexr.com/) - Mess around with regexes in your browser
