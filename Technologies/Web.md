@@ -19,6 +19,8 @@
 
 - [Intro To Node.js](https://github.com/michiganhackers/node-intro) - An introduction to Node.js with Dom and Otto. [On YouTube!](http://www.youtube.com/watch?v=enu3rh5FJPQ)
 - [Intro JavaScript](https://github.com/michiganhackers/javascript-talk) - Plain intro to how JS works. Nothing fancy.
+- [Intro to MEAN Stack](https://scotch.io/tutorials/setting-up-a-mean-stack-single-page-application) - Learn how to use Node.js, Express, MongoDB, and Angular JS to build a full stack web app.
+- [Cool Node.js Packages](https://github.com/sindresorhus/awesome-nodejs) - Hundreds of cool npm packages to add into your node app.
 
 
 ## Python
