@@ -41,3 +41,9 @@
 ##### Resources
 
 - [Learn SQL the Hard Way](http://sql.learncodethehardway.org/book/) - Text that walks through and builds up a good knowledge of SQL using SQLite
+
+## PHP
+
+### Web frameworks built with PHP
+
+- [Laravel 4 From Scratch](https://laracasts.com/series/laravel-from-scratch) - A video tutorial on PHP Laravel framework.
