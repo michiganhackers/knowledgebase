@@ -10,6 +10,8 @@
 
 - [HTML 5 and CSS 3 Introduction](https://docs.google.com/presentation/d/1fcb6DakG7cQxjP-KxobiLKiaUjEaLsOAOwidGyH4ZbA/pub?start=false&loop=false&delayms=3000) - A brief introduction to what's new in HTML 5 and CSS 3
 - [HTML 5 and CSS 3 Tutorials] (https://www.youtube.com/playlist?list=PL081AC329706B2953)  -  A decently comprehnsive set of 53 video tutorials on HTML 5 and CSS3. Tutorials assume basic understanding of XHTML and CSS.
+- [HTML, CSS, and Javascript Tutorials] (http://htmldog.com/) Simple beginner guides.
+- [HTML, CSS] (https://www.codecademy.com/learn/web) Codecademy courses.
 
 ## JavaScript
 
