@@ -1,9 +1,19 @@
 # Android
 
-### Mobile Dev. For Google's Open Source Platform
+## Android Studio Plugins
+To add plugins, go to File > Settings > Plugins > Browse Repositories.
+* Android WiFi ADB: easily install and run app over wifi
 
-##### Resources
-
-- [Intro to Android Development](https://www.youtube.com/playlist?list=PLGLfVvz_LVvQUjiCc8lUT9aO0GsWA4uNe) - Intro to Android Development (project-based) by Derek Banas.
-- [Android Application Development Tutorials](https://www.youtube.com/playlist?list=PL2F07DBCDCC01493A) - A collection of 200 videos by theNewBoston documenting Android development step by step.
-- Omid is giving a tech-talk on 2/20/14
+## Resources
+* [developer.android.com/guide](https://developer.android.com/guide/)
+  * Codelabs
+  * Free online courses
+  * Documentation
+* Youtube
+  * [The New Boston](https://www.youtube.com/user/thenewboston), [Slide Nerd](https://www.youtube.com/user/slidenerd), [Android Developer](https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg), [Derek Banas](https://www.youtube.com/user/derekbanas)
+* Other
+  * [Android Hive](https://www.androidhive.info/), [Tutorials Point](https://www.tutorialspoint.com/android/index.htm), [Vogella](http://www.vogella.com/tutorials/android.html)
+* [github.com/JStumpp/awesome-android](https://github.com/JStumpp/awesome-android)
+  * Huge curated list of Android libraries and resources
+* [Android presentation](https://github.com/michiganhackers/L2H-Android-Presentation)
+  * Android basics and todo-list demo app. Refer to presentation notes for more detailed information.
