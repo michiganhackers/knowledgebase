@@ -3,15 +3,15 @@
 ## Android Studio Plugins
 To add plugins, go to File > Settings > Plugins > Browse Repositories.
 * Android WiFi ADB: easily install and run app over wifi
-* Key Promoter X: notifies you of shorcuts you can use whenver you use the mouse on a button
-* Markdown Navigator: preview markdown files and a ton of other features that make editing markdown files easier
+* Key Promoter X: notifies you of shortcuts you can use whenever you use the mouse on a button
+* Markdown Navigator: preview markdown files plus many other tools for editing markdown files
 
 ## Resources
 * [developer.android.com/guide](https://developer.android.com/guide/)
   * Codelabs
   * Free online courses
   * Documentation
-* Youtube
+* YouTube
   * [The New Boston](https://www.youtube.com/user/thenewboston), [Slide Nerd](https://www.youtube.com/user/slidenerd), [Android Developer](https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg), [Derek Banas](https://www.youtube.com/user/derekbanas)
 * Other
   * [Android Hive](https://www.androidhive.info/), [Tutorials Point](https://www.tutorialspoint.com/android/index.htm), [Vogella](http://www.vogella.com/tutorials/android.html)
