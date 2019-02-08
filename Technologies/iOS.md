@@ -1,5 +1,4 @@
-# iOS Lightning Talk
-### A repository containing various iOS resources for a Lightning Talk I gave with Michigan Hackers during the Winter of 2019
+# Knowledge Base
 
 #### Courses
 
