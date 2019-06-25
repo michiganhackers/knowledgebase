@@ -3,8 +3,7 @@
 ## Android Studio Plugins
 To add plugins, go to File > Settings > Plugins > Browse Repositories.
 * Android WiFi ADB: easily install and run app over wifi
-* Key Promoter X: notifies you of shortcuts you can use whenever you use the mouse on a button
-  * Refer to [this page](https://developer.android.com/studio/intro/keyboard-shortcuts) to see all the keyboard shortcuts Android Studio offers by default. These can save a lot of time, so it's highly recommended to read through it!
+* Key Promoter X: notifies you if you used the mouse for an action that has a shortcut. Also suggests creating shortcuts if you use an action often.
 * Markdown Navigator: preview markdown files plus many other tools for editing markdown files
 
 ## Resources
@@ -12,6 +11,10 @@ To add plugins, go to File > Settings > Plugins > Browse Repositories.
   * Codelabs
   * Free online courses
   * Documentation
+* [Android Studio Keyboard Shortcuts](https://developer.android.com/studio/intro/keyboard-shortcuts)
+  *  Lists all the keyboard shortcuts Android Studio offers by default.
+  *  These can save a lot of time, so it's highly recommended to read through it to see what exists and bookmark it to reference later.
+  *  If you don't know the shortcut for something, you can always find it with "Find Action" (Control + Shift + A or Command + Shift + A). This will also tell you the shortcut for the action if it exists.
 * Material Design
   * [Documentation](https://material.io/design/)
   * [Icons](https://material.io/tools/icons/?style=baseline)
