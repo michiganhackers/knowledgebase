@@ -9,7 +9,9 @@
 #### References
 
 * [Apple Developer Documentation](https://developer.apple.com/documentation/)
-* [Apple Swift Blog](https://developer.apple.com/swift/blog/)
+* [Apple Swift Blog](https://swift.org/blog/)
+* [Apple Swift Resources](https://developer.apple.com/swift/resources/)
+* [Apple's Swift Book](https://docs.swift.org/swift-book/)
 * [App Coda](https://www.appcoda.com/)
 
 #### Newsletters
