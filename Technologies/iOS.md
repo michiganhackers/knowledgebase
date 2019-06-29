@@ -12,6 +12,7 @@
 * [Apple Swift Blog](https://swift.org/blog/)
 * [Apple Swift Resources](https://developer.apple.com/swift/resources/)
 * [Apple's Swift Book](https://docs.swift.org/swift-book/)
+* [Xcode Help](https://help.apple.com/xcode/mac/current/)
 * [App Coda](https://www.appcoda.com/)
 
 #### Newsletters
