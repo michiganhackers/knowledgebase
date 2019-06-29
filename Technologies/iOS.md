@@ -2,7 +2,7 @@
 
 #### Courses
 
-* [Standford University iOS 11 Course (Free)](https://itunes.apple.com/us/course/developing-ios-11-apps-with-swift/id1309275316)
+* [Stanford University iOS 11 Course (Free)](https://itunes.apple.com/us/course/developing-ios-11-apps-with-swift/id1309275316)
 * [Hacking with Swift (Free, premium options)](https://www.hackingwithswift.com/read)
 * [Ray Wenderlich (Paid, but affordable)](https://www.raywenderlich.com/ios/learn/)
 
