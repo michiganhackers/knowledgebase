@@ -1,21 +1,19 @@
 # Web
 
-## HTML/CSS
+Hello! This page provides a number of resources to get started with web development.
 
-### The Web! 
+## Frontend Development
 
-##### Resources
-- [Scotch.io Tutorials](https://scotch.io/) - Hundred of web tutorials from Node.js, MongoDB, Vagrant, CSS3, etc.
-- [Web Design for Hackers](http://slid.es/ottosipe/web) - A simple introduction to web design principles and CSS.
+### HTML
 
-- [HTML 5 and CSS 3 Introduction](https://docs.google.com/presentation/d/1fcb6DakG7cQxjP-KxobiLKiaUjEaLsOAOwidGyH4ZbA/pub?start=false&loop=false&delayms=3000) - A brief introduction to what's new in HTML 5 and CSS 3
-- [HTML 5 and CSS 3 Tutorials] (https://www.youtube.com/playlist?list=PL081AC329706B2953)  -  A decently comprehnsive set of 53 video tutorials on HTML 5 and CSS3. Tutorials assume basic understanding of XHTML and CSS.
-- [HTML, CSS, and Javascript Tutorials] (http://htmldog.com/) Simple beginner guides.
-- [HTML, CSS] (https://www.codecademy.com/learn/web) Codecademy courses.
+HTML (Hypertext Markup Language) is a language that is used to give your webpages structure.
+#### Resources
+- [Mozilla Tutorial](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML) - An excellent and thorough introduction to using HTML, and an excellent reference.
+- [HTML Dog Tutorial](https://htmldog.com/guides/html/) - A helpful follow-along tutorial.
 
-## JavaScript
+### JavaScript
 
-### Fronted Browser Code and Serverside Node.js
+####
 
 ##### Resources
 
@@ -44,8 +42,3 @@
 
 - [Learn SQL the Hard Way](http://sql.learncodethehardway.org/book/) - Text that walks through and builds up a good knowledge of SQL using SQLite
 
-## PHP
-
-### Web frameworks built with PHP
-
-- [Laravel 4 From Scratch](https://laracasts.com/series/laravel-from-scratch) - A video tutorial on PHP Laravel framework.
