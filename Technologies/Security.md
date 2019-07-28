@@ -1,7 +1,14 @@
 Security: 
 
-Udemy Course: https://www.udemy.com/the-complete-internet-security-privacy-course-volume-1/
+Basic overview of vulnerabilities: 
+https://www.hacksplaining.com/
 
-Hack This Site: https://www.hackthissite.org/
+Hack this site (A website that has some vulnerability challenges):
+https://www.hackthissite.org/
 
-Hacksplaining: https://www.hacksplaining.com/
+CTF W2019:
+https://github.com/michiganhackers/ctf-w19
+
+CTF 2017:
+https://github.com/michiganhackers/MHCTF-F17
+
